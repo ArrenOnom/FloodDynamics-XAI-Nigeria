@@ -27,4 +27,4 @@ The workflow provides a reproducible framework for flood susceptibility modeling
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/ArrenOnom/FloodDynamics-XAI-Nigeria.git
-2. Or open the **FloodDynamics-XAI-Nigeria.ipynb** in colab and follow the instructions
+2. Or open the **FloodDynamics-XAI-Nigeria.ipynb** in colab and follow the instructions....
