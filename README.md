@@ -1,4 +1,4 @@
-# FloodDynamics-XAI-Nigeria
+# Decadal Flood Hazard Mapping and Generation Mechanisms: A Spatially Block-Validated Machine Learning Approach across North-Central Nigeria
 
 ## Overview
 This repository hosts the research project **"Evaluating Pluvial and Fluvial Flood Dynamics in Data-Scarce Tropical Catchments: An Integrated Explainable AI (XAI) and Spaceborne SAR-Hydrodynamic Modeling Framework across North Central Nigeria"** by Joseph James Umar and Nelson Oyenbuchi Nwobi.
